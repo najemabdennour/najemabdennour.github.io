@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://najemabdennour.github.io/sitemap.xml
