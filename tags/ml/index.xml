@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ML on Najem Abdennour</title>
+    <link>https://najemabdennour.github.io/tags/ml/</link>
+    <description>Recent content in ML on Najem Abdennour</description>
+    <image>
+      <url>https://najemabdennour.github.io/1.png</url>
+      <link>https://najemabdennour.github.io/1.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2023 15:31:13 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog post</title>
+      <link>https://najemabdennour.github.io/posts/second/</link>
+      <pubDate>Fri, 27 Jan 2023 15:31:13 +0100</pubDate>
+      
+      <guid>https://najemabdennour.github.io/posts/second/</guid>
+      <description>A data scientist story As a data scientist you go through a lot moraly since you have to mess around people&amp;rsquo;s data to deliver for your evil Corpret lords . A definition :
+Let&amp;rsquo;s try this in bullet points:
+First you need a clever way out then you go into crisis mode and get secared eventually either you go back to your job or you accept it and start a new journey.</description>
+    </item>
+    
+  </channel>
+</rss>

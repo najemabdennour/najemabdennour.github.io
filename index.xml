@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
+    <title>Najem Abdennour</title>
     <link>https://najemabdennour.github.io/</link>
-    <description>Recent content on ExampleSite</description>
+    <description>Recent content on Najem Abdennour</description>
     <image>
-      <url>https://najemabdennour.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://najemabdennour.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://najemabdennour.github.io/1.png</url>
+      <link>https://najemabdennour.github.io/1.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://najemabdennour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 00:31:13 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
+      <title>Under preparation</title>
       <link>https://najemabdennour.github.io/posts/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 30 Jan 2023 00:31:13 +0100</pubDate>
       
       <guid>https://najemabdennour.github.io/posts/first/</guid>
-      <description>Desc Text.</description>
+      <description>Will start posting soon</description>
     </item>
+    
+    
     
   </channel>
 </rss>
