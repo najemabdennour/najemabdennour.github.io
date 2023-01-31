@@ -9,6 +9,7 @@
       <link>https://najemabdennour.github.io/1.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <copyright>(GPLv3)</copyright>
     <lastBuildDate>Mon, 30 Jan 2023 00:31:13 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Under preparation</title>
@@ -19,7 +20,25 @@
       <description>Will start posting soon</description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://najemabdennour.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://najemabdennour.github.io/projects/</guid>
+      <description> &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; </description>
+    </item>
     
+    
+    
+    <item>
+      <title>Topics</title>
+      <link>https://najemabdennour.github.io/Topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://najemabdennour.github.io/Topics/</guid>
+      <description>Topics</description>
+    </item>
     
   </channel>
 </rss>
