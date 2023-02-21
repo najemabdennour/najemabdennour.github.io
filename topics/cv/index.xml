@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Najem Abdennour</title>
-    <link>https://najemabdennour.github.io/</link>
-    <description>Recent content on Najem Abdennour</description>
+    <title>CV on Najem Abdennour</title>
+    <link>https://najemabdennour.github.io/topics/cv/</link>
+    <description>Recent content in CV on Najem Abdennour</description>
     <image>
       <url>https://najemabdennour.github.io/profile.webp</url>
       <link>https://najemabdennour.github.io/profile.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>(GPLv3)</copyright>
-    <lastBuildDate>Tue, 21 Feb 2023 12:58:34 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 12:58:34 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/topics/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Ultimate Guide to Writing a Killer CV in 2023</title>
       <link>https://najemabdennour.github.io/posts/1-how_to_create_a_cv/</link>
@@ -19,26 +19,6 @@
       <guid>https://najemabdennour.github.io/posts/1-how_to_create_a_cv/</guid>
       <description>Whether you are a fresh graduate our still pursuing a university degree, having a well written and updated CV/Resume is a must in this day and age.
 The problem is that during this academic path or even after it, you are rarely presented with a clear and simple guide to generate a CV that can get you even noticed in the job market. I think that this is honestly strange since the goal of getting into university in the first place is getting you ready for the job market and preparing you to get hired.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://najemabdennour.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://najemabdennour.github.io/projects/</guid>
-      <description> &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; </description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Topics</title>
-      <link>https://najemabdennour.github.io/Topics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://najemabdennour.github.io/Topics/</guid>
-      <description>Topics</description>
     </item>
     
   </channel>

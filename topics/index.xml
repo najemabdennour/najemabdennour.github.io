@@ -10,13 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>(GPLv3)</copyright>
-    <lastBuildDate>Mon, 30 Jan 2023 00:31:13 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 12:58:34 +0100</lastBuildDate><atom:link href="https://najemabdennour.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>https://najemabdennour.github.io/topics/projects/</link>
-      <pubDate>Mon, 30 Jan 2023 00:31:13 +0100</pubDate>
+      <title>CV</title>
+      <link>https://najemabdennour.github.io/topics/cv/</link>
+      <pubDate>Tue, 21 Feb 2023 12:58:34 +0100</pubDate>
       
-      <guid>https://najemabdennour.github.io/topics/projects/</guid>
+      <guid>https://najemabdennour.github.io/topics/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job hunt</title>
+      <link>https://najemabdennour.github.io/topics/job-hunt/</link>
+      <pubDate>Tue, 21 Feb 2023 12:58:34 +0100</pubDate>
+      
+      <guid>https://najemabdennour.github.io/topics/job-hunt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://najemabdennour.github.io/topics/work/</link>
+      <pubDate>Tue, 21 Feb 2023 12:58:34 +0100</pubDate>
+      
+      <guid>https://najemabdennour.github.io/topics/work/</guid>
       <description></description>
     </item>
     
